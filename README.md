@@ -1,3 +1,5 @@
+This repository contains the original template files for the Bloodlink App. 
+
 # QovidNg
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.6.
